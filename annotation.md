@@ -105,3 +105,11 @@ NODEMAILER
 ```
 yarn add nodemailer @types/nodemailer
 ```
+
+-------------------------------
+
+HANDLEBARS
+permite um template customizado para corpo do email
+```
+yarn add handlebars
+```
