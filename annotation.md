@@ -73,7 +73,7 @@ Biblioteca para inserção dos ids
 yarn add uuid
 yarn add @types/uuid -D
 ```
-
+--------------------------------
 
 TESTS
 
@@ -98,4 +98,10 @@ yarn add ts-jest -D
 
 ```
 yarn add supertest @types/supertest
+```
+
+--------------------------------
+NODEMAILER
+```
+yarn add nodemailer @types/nodemailer
 ```
