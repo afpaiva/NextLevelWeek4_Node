@@ -113,3 +113,8 @@ permite um template customizado para corpo do email
 ```
 yarn add handlebars
 ```
+
+YUP VALIDATIONS
+```
+yarn add yup
+```
