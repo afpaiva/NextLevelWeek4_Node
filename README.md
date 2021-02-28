@@ -10,7 +10,7 @@ This aplication is able to send the e-mail, get the grade and save into a SQL da
 ## The NextLevelWeek4_Node Track:
 Event that happened between Feb 22 and Feb 26 (2021). More info [RocketSeat](https://rocketseat.com.br/)
 
-## Languages and modules used in this project:
+## Techs in this project:
 
 - Node
 - TypeScript
@@ -22,3 +22,6 @@ Event that happened between Feb 22 and Feb 26 (2021). More info [RocketSeat](htt
 - NodeMailer
 - HandleBars
 - YUP
+- VSCode
+- Insomnia
+- Beekeeper
